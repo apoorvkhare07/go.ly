@@ -1,0 +1,9 @@
+.env
+main
+go.sum
+.gitignore
+go.ly.iml
+~/cure.link/goly
+modules.xml
+vcs.xml
+/goly
